@@ -64,7 +64,7 @@
 
 ---
 
-## 📄 License
+## License
 
 BypassYou - Minimalist, bypass-the-sound-off application for Android.  
 Copyright (C) 2026 bodyaant
