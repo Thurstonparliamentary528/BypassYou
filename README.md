@@ -54,15 +54,11 @@
 - **Material 3 Expressive UI**: Simple and clean user interface.
 - **Background Reliability**: Integrated `CallScreeningService` (Android 10+) and persistent foreground service to prevent aggressive OEM background killing.
 
----
-
 ## Tech Stack
 
 - **Language:** [Kotlin](https://kotlinlang.org/) (Coroutines, Flow)
 - **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose) with Material 3 Expressive
 - **Storage**: Clean JSON-backed shared preferences repository with synchronization.
-
----
 
 ## License
 
