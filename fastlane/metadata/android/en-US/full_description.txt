@@ -1,0 +1,8 @@
+BypassYou is an Android application built with Jetpack Compose and Material 3 Expressive design. It allows specified VIP contacts to bypass the phone's silent, vibrate, or Do Not Disturb (DND) modes with an emergency audible ringtone, ensuring you never miss critical calls.
+
+Features:
+- Non-Destructive Sound Bypass: Plays alarms safely via AudioAttributes.USAGE_ALARM without altering or messing up system ringer/notification volume sliders on MIUI, OneUI, or AOSP.
+- Acoustic Loudness Curve: Natural volume progression.
+- VIP Whitelist Management: Add contacts directly from the system phonebook or enter numbers manually with format tolerance.
+- Material 3 Expressive UI: Simple and clean user interface.
+- Background Reliability: Integrated CallScreeningService (Android 10+) and persistent foreground service to prevent aggressive OEM background killing.

@@ -1,0 +1,1 @@
+BypassYou is a small utility designed to add the Emergency Bypass feature from iOS to the Android system.
